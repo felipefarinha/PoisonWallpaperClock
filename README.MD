@@ -1,46 +1,53 @@
-"\"js object - clock\" is a web-based wallpaper with a customization available.
-The JetBrains IDE dark theme was taken as the basis (maybe add some more).
+# Poison Dark Wallpaper - Wallpaper Engine
 
-[b]List of settings:[/b]
+<h4 align="center">
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3487351158" style="color: #83e509;">Wallpaper Engine </a>
+·
+<a href="https://github.com/felipefarinha/poisontheme" style="color: #83e509;">Poison VsCode</a>
+·
+<a href="#" style="color: #83e509;">Ambience </a>(feat)
+·
+<a href="#" style="color: #83e509;">Immortal </a>(feat)
+·
+<a href="https://github.com/felipefarinha/poisontheme" style="color: #83e509;">GitHub </a>
 
-[list]
-[*]Select the 12 o'clock format,
-[*]Show the leading zero (convert a numeric value to a string value),
-[*]Change visibility of any element (hour, minute, second, period (PM/AM), day, weekday, month, year, timezone, UNIX, UTC),
-[*]Select font size, font family and theme,
-[*]Change to [b]const[/b] declaration,
-[*]Change clock position.
-[/list]
+</h4>
 
-[b]List of themes:[/b]
-[list]
-[*]Default (customized JetBrains Dark)
-[*]JetBrains Dark,
-[*]JetBrains Light,
-[*]Dark Modern,
-[*]Light Modern,
-[*]One Dark Pro,
-[*]Dracula Official,
-[*]GitHub Theme,
-[*]Rosé Pine,
-[*]Catppuccin Mocha,
-[*]SynthWave '84,
-[\*][url=steamcommunity.com/sharedfiles/filedetails/?id=2980088441]CodeTime[/url].
-[/list]
+![print](/images/image.png)
 
-[b]List of font family:[/b]
-[list]
-[*]Consolas,
-[*]Courier New,
-[*]JetBrains Mono,
-[*]Hack NFM,
-[*]Iosevka.
-[/list]
+![print](/images/steamWorkshop.png)
 
-I will be glad to see your wishes, criticism or praise)
-If you have any ideas on how to improve this project, then please open a discussion so that I can discuss it with you
-Also you can use github of [url=github.com/unktir/js-object-clock]js object - clock[/url] project. It is better to use it for discussions and especially for issues
-Thank y'all for 100k subscribers!
+### List of settings:
 
-This project was inspired by Isaias19's project called [url=steamcommunity.com/sharedfiles/filedetails/?id=2980088441]CodeTime[/url]
-Also recommend watching OOOOMGOSH's project called [url=steamcommunity.com/sharedfiles/filedetails/?id=3007669757]Python Dictionary Clock[/url]"
+1. Select the 12 o'clock format,
+1. Show the leading zero (convert a numeric value to a string value),
+1. Change visibility of any element (hour, minute, second, period (PM/AM), day, weekday, month, year, timezone, UNIX, UTC),
+1. Select font size, font family and theme,
+1. Change to **const** declaration,
+1. Change clock position.
+
+### List of themes
+
+1. Default (customized JetBrains Dark)
+1. JetBrains Dark,
+1. JetBrains Light,
+1. Dark Modern,
+1. Light Modern,
+1. One Dark Pro,
+1. Dracula Official,
+1. GitHub Theme,
+1. Rosé Pine,
+1. Catppuccin Mocha,
+1. SynthWave '84,
+
+### List of font family:
+
+1. Consolas,
+1. Courier New,
+1. JetBrains Mono,
+1. Hack NFM,
+1. Iosevka.
+
+### Licença
+
+<a href="./LICENSE">MIT LICENSE</a> © Poison Dark Theme. 🐍 Developed by <a href="https://github.com/felipefarinha" style="color: #83e509;">@Fahryn</a> inspired in js object - clock, unktir
