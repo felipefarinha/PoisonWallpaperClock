@@ -1,0 +1,51 @@
+html,
+body {
+    color: #e0def4;
+
+    font-family: Consolas, 'Courier New', monospace;
+}
+
+body {
+    background-color: #191724;
+}
+
+.keyword {
+    color: #31748f;
+}
+
+.local-variable {
+    color: inherit;
+    font-style: italic;
+}
+
+.operator {
+    color: #31748f;
+}
+
+.bracket {
+    color: #908caa;
+}
+
+.object-key {
+    color: inherit;
+}
+
+.colon {
+    color: #908caa;
+}
+
+.number {
+    color: #ebbcba;
+}
+
+.string {
+    color: #f6c177;
+}
+
+.comma {
+    color: #908caa;
+}
+
+.semicolon {
+    color: #908caa;
+}

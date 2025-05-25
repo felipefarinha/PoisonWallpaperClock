@@ -1,0 +1,55 @@
+html,
+body {
+    color: #bab6c0;
+
+    font-family: Consolas, 'Courier New', monospace;
+}
+
+body {
+    background-color: #1a1a1a;
+}
+
+.keyword {
+    color: #c891ed;
+}
+
+.local-variable {
+    color: #f75c5a;
+}
+
+.operator {
+    color: #ff7722;
+}
+
+.bracket {
+    color: #ecbc00;
+}
+
+.object-key {
+    color: inherit;
+}
+
+.colon {
+    color: #363537;
+}
+
+.number {
+    color: #99BBFE;
+}
+
+.string {
+    color: #88BB44;
+}
+
+.comma {
+    color: #908caa;
+}
+
+.semicolon {
+    color: #908caa;
+}
+
+.comment {
+    font-style: italic;
+    color: #66666F;
+}

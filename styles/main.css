@@ -1,0 +1,105 @@
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('../fonts/JetBrainsMono-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hack NFM';
+    src: url('../fonts/HackNerdFontMono-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Iosevka';
+    src: url('../fonts/Iosevka-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'FiraCodeNerdFont-Retina';
+    src: url('../fonts/FiraCodeNerdFont-Retina.ttf') format('woff2');
+}
+
+pre,
+code,
+kbd,
+samp {
+    font-family: monospace, monospace;
+    font-size: 1em;
+}
+
+*,
+:before,
+:after {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    -webkit-text-size-adjust: 100%;
+    height: 100%;
+    line-height: 1.2;
+    color: #bcbec4;
+    margin: 0;
+
+    font-size: 32px;
+    font-family: 'FiraCodeNerdFont-Retina';
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: #1e1f22;
+    -webkit-font-smoothing: antialiased;
+}
+
+p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+.tab:before {
+    content: '\00A0\00A0\00A0\00A0';
+}
+
+.keyword {
+    color: #cf8e6d;
+}
+
+.local-variable {
+    color: inherit;
+}
+
+.operator {
+    color: inherit;
+}
+
+.bracket {
+    color: inherit;
+}
+
+.object-key {
+    color: inherit;
+}
+
+.colon {
+    color: inherit;
+}
+
+.number {
+    color: #2aacb8;
+}
+
+.string {
+    color: #6aab73;
+}
+
+.comma {
+    color: inherit;
+}
+
+.semicolon {
+    color: inherit;
+}
